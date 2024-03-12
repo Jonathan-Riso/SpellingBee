@@ -12,4 +12,5 @@ None of this is mine the game was made by SquintyJosh I am just reuploading the 
 # Acknowledgements
 
 **SquintyJosh** for making the tool!
+
 **Original Site:** http://squintyjosh.blogspot.com/2015/04/spelling-bee-free-vision-therapy-video.html
