@@ -1,7 +1,10 @@
-# Disclaimer
+# Spelling Bee
+SpellingBee is a free vision therapy video game made by Squinty Josh.
+
+## Disclaimer
 None of this is mine the game was made by SquintyJosh I am just reuploading the source code for people who use the game as pratice and want to use it locally now that the domain is down.
 
-# How to run locally
+## How to run locally
 
 1. Download the ZIP file
 2. Extract the zip file
@@ -9,7 +12,7 @@ None of this is mine the game was made by SquintyJosh I am just reuploading the 
 4. Open the `index.html` file and it should launch into the browser
 5.  Use like normal I hope this helps!
 
-# Acknowledgements
+## Acknowledgements
 
 **SquintyJosh** for making the tool!
 
